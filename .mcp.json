@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "koozee": {
+      "type": "http",
+      "url": "https://koozee.ai/business-api/mcp"
+    }
+  }
+}

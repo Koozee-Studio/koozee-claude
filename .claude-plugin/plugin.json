@@ -1,0 +1,10 @@
+{
+  "name": "koozee",
+  "displayName": "Koozee",
+  "version": "0.1.0",
+  "description": "Use Koozee Canvas and Koozee Skill MCP tools for AI creative workflows.",
+  "author": {
+    "name": "Koozee"
+  },
+  "keywords": ["koozee", "mcp", "canvas"]
+}
